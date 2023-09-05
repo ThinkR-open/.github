@@ -1,4 +1,4 @@
-## Hi there 👋🦄🌈🌟
+## Hi there    👋🦄🌈🌟
 
 ThinkR is above all a **team united by a common passion: R**.
 
